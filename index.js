@@ -31,7 +31,3 @@ function createColor(){
     wholeBody.style.background = color;
     text.textContent = "Background Color: " + color
 }
-
-
-//let color = "#0000ff";
-//wholeBody.style.background =color;
